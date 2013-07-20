@@ -1,0 +1,21 @@
+{
+  "name": "level-json",
+  "version": "0.1.0",
+  "description": "LevelUP Plugin to store indexed JSON data",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://jpillora@github.com/jpillora/level-json.git"
+  },
+  "author": "Jaime Pillora <dev@jpillora.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jpillora/level-json/issues"
+  },
+  "gruntSource": {
+    "source": "~/.grunt-sources/node"
+  }
+}
